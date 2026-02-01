@@ -1,0 +1,482 @@
+{
+    "2330": {
+        "company_name": "TSMC",
+        "currency": "TWD",
+        "latest_quarter": {
+            "fiscal_year": "2025",
+            "fiscal_quarter": "Q3"
+        },
+        "quarterly_data": {
+            "2024Q3": {
+                "revenue": {
+                    "value": 759690000000,
+                    "unit": "TWD"
+                },
+                "gross_margin": {
+                    "value": 57.8,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 85,
+                    "unit": "days"
+                }
+            },
+            "2024Q4": {
+                "revenue": {
+                    "value": 800200000000,
+                    "unit": "TWD"
+                },
+                "gross_margin": {
+                    "value": 58.2,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 83,
+                    "unit": "days"
+                }
+            },
+            "2025Q1": {
+                "revenue": {
+                    "value": 592640000000,
+                    "unit": "TWD"
+                },
+                "gross_margin": {
+                    "value": 53.1,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 88,
+                    "unit": "days"
+                }
+            },
+            "2025Q2": {
+                "revenue": {
+                    "value": 673510000000,
+                    "unit": "TWD"
+                },
+                "gross_margin": {
+                    "value": 53.2,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 87,
+                    "unit": "days"
+                }
+            },
+            "2025Q3": {
+                "revenue": {
+                    "value": 868500000000,
+                    "unit": "TWD"
+                },
+                "gross_margin": {
+                    "value": 59.0,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 82,
+                    "unit": "days"
+                }
+            }
+        },
+        "latest_changes": {
+            "revenue_qoq": "29.0%",
+            "revenue_yoy": "38.8%",
+            "gross_margin_qoq": "+5.8 ppts",
+            "gross_margin_yoy": "+1.2 ppts",
+            "doi_qoq": "-5 days",
+            "doi_yoy": "-3 days"
+        },
+        "additional_info": {
+            "operating_margin": {
+                "value": 49.0,
+                "unit": "%"
+            },
+            "net_income": {
+                "value": 374700000000,
+                "unit": "TWD",
+                "yoy_growth": "57.0%"
+            },
+            "eps": {
+                "value": 14.45,
+                "unit": "TWD"
+            },
+            "capex_guidance_2026": {
+                "value": 38000000000,
+                "unit": "USD",
+                "range": "38B-42B"
+            },
+            "revenue_by_platform": {
+                "HPC": "53%",
+                "Smartphone": "30%",
+                "IoT": "5%",
+                "Automotive": "5%",
+                "DCE": "1%",
+                "Others": "6%"
+            },
+            "revenue_by_technology": {
+                "3nm": "26%",
+                "5nm": "34%",
+                "7nm": "14%",
+                "16nm": "6%",
+                "28nm": "6%",
+                "Others": "14%"
+            }
+        }
+    },
+    "NVDA": {
+        "company_name": "Nvidia",
+        "currency": "USD",
+        "latest_quarter": {
+            "fiscal_year": "2025",
+            "fiscal_quarter": "Q4"
+        },
+        "quarterly_data": {
+            "2024Q3": {
+                "revenue": {
+                    "value": 30040000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 72.7,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 95,
+                    "unit": "days"
+                }
+            },
+            "2024Q4": {
+                "revenue": {
+                    "value": 35080000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 73.8,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 92,
+                    "unit": "days"
+                }
+            },
+            "2025Q1": {
+                "revenue": {
+                    "value": 26000000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 70.1,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 98,
+                    "unit": "days"
+                }
+            },
+            "2025Q2": {
+                "revenue": {
+                    "value": 30000000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 71.2,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 96,
+                    "unit": "days"
+                }
+            },
+            "2025Q3": {
+                "revenue": {
+                    "value": 39300000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 73.0,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 90,
+                    "unit": "days"
+                }
+            }
+        },
+        "latest_changes": {
+            "revenue_qoq": "31.0%",
+            "revenue_yoy": "78%",
+            "gross_margin_qoq": "+1.8 ppts",
+            "gross_margin_yoy": "+0.3 ppts",
+            "doi_qoq": "-6 days",
+            "doi_yoy": "-5 days"
+        },
+        "additional_info": {
+            "operating_margin": {
+                "value": 62.0,
+                "unit": "%"
+            },
+            "net_income": {
+                "value": 22100000000,
+                "unit": "USD",
+                "yoy_growth": "80%"
+            },
+            "eps": {
+                "value": 0.89,
+                "unit": "USD"
+            },
+            "fy2025_revenue": {
+                "value": 130500000000,
+                "unit": "USD",
+                "yoy_growth": "114%"
+            },
+            "revenue_by_segment": {
+                "Data Center": "91%",
+                "Gaming": "6%",
+                "Professional Visualization": "2%",
+                "Automotive": "1%"
+            },
+            "key_products": {
+                "Blackwell": "First quarter sales, strong demand",
+                "Hopper H100/H200": "Continued strong sales",
+                "Data Center": "$35.6B quarterly record"
+            }
+        }
+    },
+    "AAPL": {
+        "company_name": "Apple",
+        "currency": "USD",
+        "latest_quarter": {
+            "fiscal_year": "2025",
+            "fiscal_quarter": "Q3"
+        },
+        "quarterly_data": {
+            "2024Q3": {
+                "revenue": {
+                    "value": 94980000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 46.22,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 11.78,
+                    "unit": "days"
+                }
+            },
+            "2024Q4": {
+                "revenue": {
+                    "value": 124380000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 46.90,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 11.5,
+                    "unit": "days"
+                }
+            },
+            "2025Q1": {
+                "revenue": {
+                    "value": 95480000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 47.00,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 10.7,
+                    "unit": "days"
+                }
+            },
+            "2025Q2": {
+                "revenue": {
+                    "value": 94080000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 46.50,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 10.1,
+                    "unit": "days"
+                }
+            },
+            "2025Q3": {
+                "revenue": {
+                    "value": 102580000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 47.20,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 10.7,
+                    "unit": "days"
+                }
+            }
+        },
+        "latest_changes": {
+            "revenue_qoq": "9.00%",
+            "revenue_yoy": "7.90%",
+            "gross_margin_qoq": "+0.7 ppts",
+            "gross_margin_yoy": "+1.0 ppts",
+            "doi_qoq": "+0.6 days",
+            "doi_yoy": "-1.08 days"
+        },
+        "additional_info": {
+            "net_income": {
+                "value": 27500000000,
+                "unit": "USD",
+                "yoy_growth": "12%"
+            },
+            "eps": {
+                "value": 1.85,
+                "unit": "USD"
+            },
+            "fy2025_revenue": {
+                "value": 416000000000,
+                "unit": "USD",
+                "description": "Record annual revenue"
+            },
+            "revenue_by_product": {
+                "iPhone": "September quarter record, +6.1% YoY",
+                "Mac": "+12.7% YoY",
+                "Services": "All-time revenue record",
+                "iPad": "Flat YoY",
+                "Wearables": "-0.3% YoY"
+            },
+            "key_highlights": {
+                "iPhone 17": "Strong sales of iPhone 17 lineup",
+                "Active Devices": "All-time high across all categories",
+                "Services": "Record revenue"
+            }
+        }
+    },
+    "AMD": {
+        "company_name": "AMD",
+        "currency": "USD",
+        "latest_quarter": {
+            "fiscal_year": "2025",
+            "fiscal_quarter": "Q4 (Projected)"
+        },
+        "quarterly_data": {
+            "2024Q3": {
+                "revenue": {
+                    "value": 7500000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 50.5,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 105,
+                    "unit": "days"
+                }
+            },
+            "2024Q4": {
+                "revenue": {
+                    "value": 8100000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 51.2,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 102,
+                    "unit": "days"
+                }
+            },
+            "2025Q1": {
+                "revenue": {
+                    "value": 6900000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 49.8,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 108,
+                    "unit": "days"
+                }
+            },
+            "2025Q2": {
+                "revenue": {
+                    "value": 7800000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 50.1,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 106,
+                    "unit": "days"
+                }
+            },
+            "2025Q3": {
+                "revenue": {
+                    "value": 9250000000,
+                    "unit": "USD"
+                },
+                "gross_margin": {
+                    "value": 51.8,
+                    "unit": "%"
+                },
+                "doi_days": {
+                    "value": 100,
+                    "unit": "days"
+                }
+            }
+        },
+        "latest_changes": {
+            "revenue_qoq": "18.6%",
+            "revenue_yoy": "36%",
+            "gross_margin_qoq": "+1.7 ppts",
+            "gross_margin_yoy": "+1.3 ppts",
+            "doi_qoq": "-6 days",
+            "doi_yoy": "-5 days"
+        },
+        "additional_info": {
+            "eps": {
+                "value": 1.20,
+                "unit": "USD"
+            },
+            "q4_projected": {
+                "revenue": {
+                    "value": 9600000000,
+                    "unit": "USD",
+                    "range": "$9.3B-$9.9B"
+                },
+                "eps": {
+                    "value": 1.32,
+                    "unit": "USD",
+                    "yoy_growth": "21-22%"
+                }
+            },
+            "revenue_by_segment": {
+                "Data Center": "Primary growth driver",
+                "Client": "Strong EPYC processor demand",
+                "Gaming": "Stable",
+                "Embedded": "Moderate growth"
+            },
+            "key_products": {
+                "MI350 GPUs": "Increased adoption for AI workloads",
+                "EPYC Processors": "Strong demand in data centers",
+                "MI300X": "Key AI accelerator, partnerships with OpenAI"
+            },
+            "strategic_moves": {
+                "ZT Systems Acquisition": "Enhanced rack-scale AI server design capabilities",
+                "Manufacturing Scale": "Expanding production for AI systems"
+            }
+        }
+    }
+}

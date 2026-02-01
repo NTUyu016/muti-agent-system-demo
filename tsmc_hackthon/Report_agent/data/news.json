@@ -1,0 +1,64 @@
+[
+    {
+        "id": "news_001",
+        "date": "2026-01-20",
+        "title": "台積電 CoWoS 產能吃緊，Nvidia 積極爭取產能",
+        "source": "工商時報",
+        "summary": "因應 AI 晶片需求爆發，Nvidia、AMD、Microsoft 等客戶積極爭取台積電 CoWoS 先進封裝產能。台積電已宣布將於 2026 年底前將 CoWoS 月產能提升至 8 萬片。",
+        "sentiment": "positive",
+        "related_companies": [
+            "2330",
+            "NVDA",
+            "AMD",
+            "MSFT"
+        ]
+    },
+    {
+        "id": "news_002",
+        "date": "2026-01-15",
+        "title": "台積電 Arizona 廠正式量產，美國晶片製造里程碑",
+        "source": "路透社",
+        "summary": "台積電美國 Arizona 廠於 2025 年底開始量產 4nm 製程，這是美國本土首座採用先進製程的晶片製造廠。Apple 為首批客戶之一。",
+        "sentiment": "positive",
+        "related_companies": [
+            "2330",
+            "AAPL"
+        ]
+    },
+    {
+        "id": "news_003",
+        "date": "2026-01-10",
+        "title": "ASML EUV 設備交貨延遲，恐影響台積電 2nm 時程",
+        "source": "電子時報",
+        "summary": "荷蘭 ASML 因供應鏈問題，部分 High-NA EUV 設備交貨時程延遲約 2 個月。分析師認為短期內對台積電 2nm 量產時程影響有限。",
+        "sentiment": "neutral",
+        "related_companies": [
+            "2330",
+            "ASML"
+        ]
+    },
+    {
+        "id": "news_004",
+        "date": "2026-01-05",
+        "title": "蘋果 M5 晶片傳採台積電 2nm 製程",
+        "source": "日經亞洲",
+        "summary": "消息人士透露，蘋果下一代 M5 晶片將採用台積電最新 2nm 製程，預計 2026 年下半年開始量產。此舉將進一步鞏固蘋果與台積電的合作關係。",
+        "sentiment": "positive",
+        "related_companies": [
+            "2330",
+            "AAPL"
+        ]
+    },
+    {
+        "id": "news_005",
+        "date": "2025-12-28",
+        "title": "美國對中國半導體出口管制再收緊，台積電受惠轉單效應",
+        "source": "華爾街日報",
+        "summary": "美國政府宣布進一步收緊對中國半導體設備出口管制，分析師預期中國客戶將加速轉向成熟製程，台積電可望受惠於部分轉單效應。",
+        "sentiment": "positive",
+        "related_companies": [
+            "2330",
+            "981"
+        ]
+    }
+]

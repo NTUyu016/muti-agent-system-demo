@@ -1,0 +1,364 @@
+{
+    "nodes": [
+        {
+            "id": "2330",
+            "name": "TSMC",
+            "country": "Taiwan",
+            "category": "Foundry",
+            "role": "Self",
+            "tags": [
+                "Advanced Node Leadership",
+                "CoWoS Provider"
+            ]
+        },
+        {
+            "id": "5930",
+            "name": "Samsung",
+            "country": "South Korea",
+            "category": "Foundry",
+            "role": "Competitor",
+            "tags": [
+                "GAA Transistor",
+                "IDM"
+            ]
+        },
+        {
+            "id": "981",
+            "name": "SMIC",
+            "country": "China",
+            "category": "Foundry",
+            "role": "Competitor",
+            "tags": [
+                "Legacy Node"
+            ]
+        },
+        {
+            "id": "2303",
+            "name": "UMC",
+            "country": "Taiwan",
+            "category": "Foundry",
+            "role": "Competitor",
+            "tags": [
+                "Specialty Technology"
+            ]
+        },
+        {
+            "id": "AAPL",
+            "name": "Apple",
+            "country": "USA",
+            "category": "Fabless",
+            "role": "Customer",
+            "tags": [
+                "N3 Launch Partner",
+                "Mobile AP",
+                "HPC"
+            ]
+        },
+        {
+            "id": "AMD",
+            "name": "AMD",
+            "country": "USA",
+            "category": "Fabless",
+            "role": "Customer",
+            "tags": [
+                "HPC",
+                "AI Chiplet",
+                "SoIC User"
+            ]
+        },
+        {
+            "id": "INTC",
+            "name": "Intel",
+            "country": "USA",
+            "category": "Fabless",
+            "role": "Customer",
+            "tags": [
+                "IDM",
+                "HPC",
+                "CPU Tile Outsourcing"
+            ]
+        },
+        {
+            "id": "2454",
+            "name": "MTK",
+            "country": "Taiwan",
+            "category": "Fabless",
+            "role": "Customer",
+            "tags": [
+                "Mobile SoC",
+                "HPC"
+            ]
+        },
+        {
+            "id": "NVDA",
+            "name": "Nvidia",
+            "country": "USA",
+            "category": "Fabless",
+            "role": "Customer",
+            "tags": [
+                "AI GPU",
+                "CoWoS Volumn Driver"
+            ]
+        },
+        {
+            "id": "NXPI",
+            "name": "NXP",
+            "country": "Netherlands",
+            "category": "Fabless",
+            "role": "Customer",
+            "tags": [
+                "Automotive MCU",
+                "Industrial"
+            ]
+        },
+        {
+            "id": "QCOM",
+            "name": "Qualcomm",
+            "country": "USA",
+            "category": "Fabless",
+            "role": "Customer",
+            "tags": [
+                "Mobile SoC",
+                "5G Modem"
+            ]
+        },
+        {
+            "id": "SONY",
+            "name": "Sony",
+            "country": "Japan",
+            "category": "Fabless",
+            "role": "Customer",
+            "tags": [
+                "Sensor",
+                "CIS",
+                "JASM Partner"
+            ]
+        },
+        {
+            "id": "TSLA",
+            "name": "Tesla",
+            "country": "USA",
+            "category": "Fabless",
+            "role": "Customer",
+            "tags": [
+                "Dojo",
+                "FSD Chip"
+            ]
+        },
+        {
+            "id": "ASML",
+            "name": "ASML",
+            "country": "Netherlands",
+            "category": "Equipment",
+            "role": "Supplier",
+            "tags": [
+                "Lithography",
+                "EUV",
+                "DUV"
+            ]
+        },
+        {
+            "id": "AMAT",
+            "name": "Applied Materials",
+            "country": "USA",
+            "category": "Equipment",
+            "role": "Supplier",
+            "tags": [
+                "Deposition",
+                "Etch"
+            ]
+        },
+        {
+            "id": "LRCX",
+            "name": "Lam Research",
+            "country": "USA",
+            "category": "Equipment",
+            "role": "Supplier",
+            "tags": [
+                "Etch",
+                "Deposition"
+            ]
+        },
+        {
+            "id": "TEL",
+            "name": "Tokyo Electron",
+            "country": "Japan",
+            "category": "Equipment",
+            "role": "Supplier",
+            "tags": [
+                "Coater/Developer"
+            ]
+        },
+        {
+            "id": "KLAC",
+            "name": "KLA",
+            "country": "USA",
+            "category": "Equipment",
+            "role": "Supplier",
+            "tags": [
+                "Process Control",
+                "Metrology"
+            ]
+        },
+        {
+            "id": "3711",
+            "name": "ASE Technology",
+            "country": "Taiwan",
+            "category": "Packaging",
+            "role": "Partner",
+            "tags": [
+                "OSAT"
+            ]
+        },
+        {
+            "id": "AMKR",
+            "name": "Amkor",
+            "country": "USA",
+            "category": "Packaging",
+            "role": "Partner",
+            "tags": [
+                "OSAT",
+                "Info-LSI"
+            ]
+        },
+        {
+            "id": "MSFT",
+            "name": "Microsoft",
+            "country": "USA",
+            "category": "Hyperscaler",
+            "role": "Customer",
+            "tags": [
+                "ASIC Design",
+                "Maia AI Chip",
+                "Cobalt CPU"
+            ]
+        },
+        {
+            "id": "AMZN",
+            "name": "Amazon AWS",
+            "country": "USA",
+            "category": "Hyperscaler",
+            "role": "Customer",
+            "tags": [
+                "ASIC Design",
+                "Trainium",
+                "Inferentia"
+            ]
+        },
+        {
+            "id": "GOOG",
+            "name": "Google",
+            "country": "USA",
+            "category": "Hyperscaler",
+            "role": "Customer",
+            "tags": [
+                "ASIC Design",
+                "TPU"
+            ]
+        }
+    ],
+    "edges": [
+        {
+            "source": "AAPL",
+            "target": "2330",
+            "relation": "Client",
+            "description": "Major customer for advanced nodes (3nm, 5nm)"
+        },
+        {
+            "source": "NVDA",
+            "target": "2330",
+            "relation": "Client",
+            "description": "Key customer for AI GPU manufacturing (CoWoS)"
+        },
+        {
+            "source": "AMD",
+            "target": "2330",
+            "relation": "Client",
+            "description": "Customer for CPU/GPU dies"
+        },
+        {
+            "source": "QCOM",
+            "target": "2330",
+            "relation": "Client",
+            "description": "Customer for Snapdragon processors"
+        },
+        {
+            "source": "2454",
+            "target": "2330",
+            "relation": "Client",
+            "description": "Customer for Dimensity mobile processors"
+        },
+        {
+            "source": "INTC",
+            "target": "2330",
+            "relation": "Client",
+            "description": "Outsourcing some GPU/CPU tiles"
+        },
+        {
+            "source": "TSLA",
+            "target": "2330",
+            "relation": "Client",
+            "description": "FSD Chip manufacturing"
+        },
+        {
+            "source": "ASML",
+            "target": "2330",
+            "relation": "Supplier",
+            "description": "Exclusive supplier of EUV Lithography machines"
+        },
+        {
+            "source": "AMAT",
+            "target": "2330",
+            "relation": "Supplier",
+            "description": "Materials engineering solutions supplier"
+        },
+        {
+            "source": "LRCX",
+            "target": "2330",
+            "relation": "Supplier",
+            "description": "Wafer fabrication equipment supplier"
+        },
+        {
+            "source": "ASML",
+            "target": "5930",
+            "relation": "Supplier",
+            "description": "Supplier of Lithography machines"
+        },
+        {
+            "source": "ASML",
+            "target": "INTC",
+            "relation": "Supplier",
+            "description": "Supplier of Lithography machines"
+        },
+        {
+            "source": "2330",
+            "target": "3711",
+            "relation": "Partner",
+            "description": "Backend assembly and testing partnership"
+        },
+        {
+            "source": "2330",
+            "target": "AMKR",
+            "relation": "Partner",
+            "description": "Backend assembly and testing partnership"
+        },
+        {
+            "source": "MSFT",
+            "target": "2330",
+            "relation": "Client",
+            "description": "Custom AI silicon (Maia) manufacturing"
+        },
+        {
+            "source": "AMZN",
+            "target": "2330",
+            "relation": "Client",
+            "description": "AWS Trainium and Inferentia chip manufacturing"
+        },
+        {
+            "source": "GOOG",
+            "target": "2330",
+            "relation": "Client",
+            "description": "TPU manufacturing for AI workloads"
+        }
+    ]
+}

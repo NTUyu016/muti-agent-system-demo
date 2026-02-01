@@ -1,0 +1,178 @@
+{
+    "2330": {
+        "company_name": "TSMC",
+        "currency": "TWD",
+        "fiscal_year": "2025",
+        "fiscal_quarter": "Q4",
+        "revenue": {
+            "value": 868500000000,
+            "unit": "TWD",
+            "yoy_growth": "38.8%"
+        },
+        "gross_margin": {
+            "value": 59.0,
+            "unit": "%",
+            "qoq_change": "+1.5%"
+        },
+        "operating_margin": {
+            "value": 49.0,
+            "unit": "%"
+        },
+        "net_income": {
+            "value": 374700000000,
+            "unit": "TWD",
+            "yoy_growth": "57.0%"
+        },
+        "eps": {
+            "value": 14.45,
+            "unit": "TWD"
+        },
+        "capex_guidance_2026": {
+            "value": 38000000000,
+            "unit": "USD",
+            "range": "38B-42B"
+        },
+        "revenue_by_platform": {
+            "HPC": "53%",
+            "Smartphone": "30%",
+            "IoT": "5%",
+            "Automotive": "5%",
+            "DCE": "1%",
+            "Others": "6%"
+        },
+        "revenue_by_technology": {
+            "3nm": "26%",
+            "5nm": "34%",
+            "7nm": "14%",
+            "16nm": "6%",
+            "28nm": "6%",
+            "Others": "14%"
+        }
+    },
+    "NVDA": {
+        "company_name": "Nvidia",
+        "currency": "USD",
+        "fiscal_year": "2025",
+        "fiscal_quarter": "Q4",
+        "revenue": {
+            "value": 39300000000,
+            "unit": "USD",
+            "yoy_growth": "78%"
+        },
+        "gross_margin": {
+            "value": 73.0,
+            "unit": "%",
+            "qoq_change": "+2.0%"
+        },
+        "operating_margin": {
+            "value": 62.0,
+            "unit": "%"
+        },
+        "net_income": {
+            "value": 22100000000,
+            "unit": "USD",
+            "yoy_growth": "80%"
+        },
+        "eps": {
+            "value": 0.89,
+            "unit": "USD"
+        },
+        "fy2025_revenue": {
+            "value": 130500000000,
+            "unit": "USD",
+            "yoy_growth": "114%"
+        },
+        "revenue_by_segment": {
+            "Data Center": "91%",
+            "Gaming": "6%",
+            "Professional Visualization": "2%",
+            "Automotive": "1%"
+        },
+        "key_products": {
+            "Blackwell": "First quarter sales, strong demand",
+            "Hopper H100/H200": "Continued strong sales",
+            "Data Center": "$35.6B quarterly record"
+        }
+    },
+    "AAPL": {
+        "company_name": "Apple",
+        "currency": "USD",
+        "fiscal_year": "2025",
+        "fiscal_quarter": "Q4",
+        "revenue": {
+            "value": 102500000000,
+            "unit": "USD",
+            "yoy_growth": "8%"
+        },
+        "gross_margin": {
+            "value": 46.2,
+            "unit": "%",
+            "qoq_change": "+0.5%"
+        },
+        "net_income": {
+            "value": 27500000000,
+            "unit": "USD",
+            "yoy_growth": "12%"
+        },
+        "eps": {
+            "value": 1.85,
+            "unit": "USD"
+        },
+        "fy2025_revenue": {
+            "value": 416000000000,
+            "unit": "USD",
+            "description": "Record annual revenue"
+        },
+        "revenue_by_product": {
+            "iPhone": "September quarter record, +6.1% YoY",
+            "Mac": "+12.7% YoY",
+            "Services": "All-time revenue record",
+            "iPad": "Flat YoY",
+            "Wearables": "-0.3% YoY"
+        },
+        "key_highlights": {
+            "iPhone 17": "Strong sales of iPhone 17 lineup",
+            "Active Devices": "All-time high across all categories",
+            "Services": "Record revenue"
+        }
+    },
+    "AMD": {
+        "company_name": "AMD",
+        "currency": "USD",
+        "fiscal_year": "2025",
+        "fiscal_quarter": "Q4 (Projected)",
+        "revenue": {
+            "value": 9600000000,
+            "unit": "USD",
+            "yoy_growth": "25-26%",
+            "range": "$9.3B-$9.9B"
+        },
+        "eps": {
+            "value": 1.32,
+            "unit": "USD (Projected)",
+            "yoy_growth": "21-22%"
+        },
+        "q3_actual": {
+            "revenue": 9250000000,
+            "revenue_growth": "36% YoY",
+            "eps": 1.20,
+            "data_center_revenue": 4300000000,
+            "data_center_growth": "22% YoY"
+        },
+        "revenue_by_segment": {
+            "Data Center": "Primary growth driver",
+            "Client": "Strong EPYC processor demand",
+            "Gaming": "Stable",
+            "Embedded": "Moderate growth"
+        },
+        "key_products": {
+            "MI350 GPUs": "Increased adoption for AI workloads",
+            "EPYC Processors": "Strong demand in data centers",
+            "MI300X": "Key AI accelerator, partnerships with OpenAI"
+        },
+        "strategic_moves": {
+            "ZT Systems Acquisition": "Enhanced rack-scale AI server design capabilities",
+            "Manufacturing Scale": "Expanding production for AI systems"
+        }
+    }
+}
